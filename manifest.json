@@ -1,0 +1,16 @@
+{
+  "name": "Circus Society",
+  "short_name": "Circus Society",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f4f7f3",
+  "theme_color": "#f4f7f3",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
